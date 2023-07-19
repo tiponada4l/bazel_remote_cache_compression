@@ -1,0 +1,4 @@
+bazel-*
+.bazelrc
+node_modules
+memprof
